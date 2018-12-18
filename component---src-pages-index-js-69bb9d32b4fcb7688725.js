@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{136:function(t,e,n){"use strict";n.r(e);var i=n(0),a=n.n(i),d=n(144),o=n.n(d);e.default=function(){return a.a.createElement("div",null,a.a.createElement("embed",{src:o.a,type:"application/pdf",style:{position:"fixed",width:"100%",height:"100%",top:0,bottom:0,left:0,right:0}}))}},144:function(t,e,n){t.exports=n.p+"static/menu-2d05098a5d855d3f2df0a2df361e39a2.pdf"}}]);
+//# sourceMappingURL=component---src-pages-index-js-69bb9d32b4fcb7688725.js.map
